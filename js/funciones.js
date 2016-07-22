@@ -23,9 +23,9 @@
                     setTitle : 'set title',
                     loop: true,
                     images : [
-                        {src : 'demo-images/1.jpg', title : 'caption 1'},
-                        {src : 'demo-images/6.jpg', title : 'caption 2'},
-                        {src : 'demo-images/8.jpg', title : 'caption 3'},
+                        {src : 'images/ej1.jpg', title : 'Ejemplo 1'},
+                        {src : 'images/ej6.jpg', title : 'Ejemplo 6'},
+                        {src : 'images/ej3.jpg', title : 'Ejemplo 3'},
                     ],
                     imageSize : 'contain',
                     container : '#container3'
